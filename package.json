@@ -1,11 +1,18 @@
 {
   "name": "eslint-config-markhkr",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
   "description": "ESLint and Prettier Config from Mark Hkr",
-  "repository": "git@github.com:markhker/eslint-config-markhkr.git",
-  "author": "Marlom <me@marlom.dev>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markhker/eslint-config-markhkr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/markhker/eslint-config-markhkr/issues"
+  },
+  "homepage": "https://github.com/markhker/eslint-config-markhkr",
+  "author": "Mark Hkr <markhker@gmail.com> (marlom.dev)",
   "keywords": [
     "javascript",
     "ecmascript",
